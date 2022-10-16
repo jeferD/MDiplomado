@@ -1,0 +1,25 @@
+{
+  "name": "mascotasbk",
+  "version": "1.0.0",
+  "description": "- #### esta desarrollado con el framework de Express(NodeJS) y el orm de base de datos sequelize.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": ""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "morgan": "^1.10.0",
+    "pg": "^8.8.0",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.22.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}

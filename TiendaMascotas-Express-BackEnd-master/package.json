@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "nodeJS": "^1.0.0",
+    "sequelize": "^6.25.1"
+  },
+  "name": "tiendamascotas-express-backend-master",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
